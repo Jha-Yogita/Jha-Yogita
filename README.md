@@ -80,7 +80,25 @@ Frontend built for SOC Fest — event discovery, schedule, and registration UI.
 ## 🤖 AI Projects
 
 <table>
+  
 <tr>
+  <td width="50%" valign="top">
+
+<h3>🎯 CareerMentor.ai — AI Resume & Career Intelligence Platform</h3>
+
+<p>
+An end-to-end AI system that analyzes resumes, identifies skill gaps, and generates <b>role-specific career strategies</b>. Includes resume rewriting, interview prep, roadmaps, and persistent history tracking.
+</p>
+
+<p><b>Stack:</b> React · Flask · Groq LLM · PostgreSQL · SQLAlchemy · Supabase Auth</p>
+
+<p>
+<a href="https://github.com/your-username/CareerMentor.ai">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/>
+</a>
+</p>
+
+</td>
 <td width="50%" valign="top">
 
 ### 🎤 Babel — AI Speech Translator
@@ -91,6 +109,8 @@ Real-time speech translation across **30+ languages** with live subtitles, trans
 [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Jha-Yogita/babel-ai-translator)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📄 DocuMind — RAG PDF Chat
@@ -101,8 +121,8 @@ Full RAG pipeline — upload any PDF and chat with it. Generates summaries, flas
 [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Jha-Yogita/documind)
 
 </td>
-</tr>
-<tr>
+
+
 <td width="50%" valign="top">
 
 ### 🎙️ VOCA — Browser AI Voice Assistant
@@ -113,6 +133,8 @@ Voice-in, voice-out AI assistant using native browser APIs — zero paid speech 
 [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Jha-Yogita/voca-ai-assistant)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🎧 Audio Intelligence — Speech Analyzer
